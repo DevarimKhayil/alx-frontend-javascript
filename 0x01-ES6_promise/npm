@@ -1,0 +1,5 @@
+{
+  "photo": { "status": 200, "body": "photo-profile-1" },
+  "user": { "firstName": "Guillaume", "lastName": "Salva" }
+}
+
